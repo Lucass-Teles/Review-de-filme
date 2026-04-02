@@ -5,7 +5,7 @@ Este é um projeto simples de uma página de crítica de cinema desenvolvido par
 O foco principal foi estruturar informações de forma hierárquica e garantir que elementos visuais (como avaliações por estrelas) sejam interpretados corretamente por tecnologias assistivas.
 
 Tecnologias Utilizadas
-HTML5: Uso de tags semânticas como <main>, <section>, <ul> e <strong>.
+HTML5: Uso de tags semânticas como main, section, ul e strong.
 
 Acessibilidade (ARIA): Implementação de aria-hidden="true" para elementos decorativos e melhores práticas de contraste e estrutura.
 
